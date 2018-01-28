@@ -9,3 +9,5 @@ html {
 }
 h1 {
   font-size: 3.375em; /* 60.75 / 18 */
+  line-height: 0.724em; /* 44 / 60.45 */
+}
