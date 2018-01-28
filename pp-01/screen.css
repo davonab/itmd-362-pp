@@ -11,3 +11,6 @@ h1 {
   font-size: 3.375em; /* 60.75 / 18 */
   line-height: 0.794em; /* 48 / 60.45 */
 }
+label {
+  display: block;
+}
