@@ -12,3 +12,7 @@ $.noConflict();
     var a = userbirth.getFullYear();
     var b = today.getFullYear();
     var age = b - a;
+    if(age < 18) {
+  $('#signup-form').append('<li>Sorry, you are not 18 years old yet</li>'
+);
+}
