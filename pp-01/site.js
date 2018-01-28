@@ -11,3 +11,4 @@ $.noConflict();
     var today = new Date();
     var a = userbirth.getFullYear();
     var b = today.getFullYear();
+    var age = b - a;
