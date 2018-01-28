@@ -10,3 +10,4 @@ $.noConflict();
     var userbirth = new Date(document.getElementById('birthday').value);
     var today = new Date();
     var a = userbirth.getFullYear();
+    var b = today.getFullYear();
