@@ -5,9 +5,9 @@ menu,nav,section{display:block}html{line-height:1}body{line-height:inherit}ol,ul
 /* stylelint-enable */
 html {
   font-size: 1.125em; /* 18 / 16 */
-  line-height: 1.222em; /*22 / 18*/
+  line-height: 1.333em; /*24 / 18*/
 }
 h1 {
   font-size: 3.375em; /* 60.75 / 18 */
-  line-height: 0.724em; /* 44 / 60.45 */
+  line-height: 0.794em; /* 48 / 60.45 */
 }
