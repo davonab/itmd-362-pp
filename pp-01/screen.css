@@ -14,3 +14,6 @@ h1 {
 label {
   display: block;
 }
+li {
+  padding-top: 1.333em; /* 24 / 18 */
+}
