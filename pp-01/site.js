@@ -7,3 +7,4 @@ $.noConflict();
 (function($) {
   $('#signup-form').on('submit', function(d) {
     d.preventDefault();
+    var userbirth = new Date(document.getElementById('birthday').value);
