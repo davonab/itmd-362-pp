@@ -5,3 +5,5 @@
 /* eslint-enable */
 $.noConflict();
 (function($) {
+  $('#signup-form').on('submit', function(d) {
+    d.preventDefault();
