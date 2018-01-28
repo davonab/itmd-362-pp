@@ -16,3 +16,8 @@ $.noConflict();
   $('#signup-form').append('<li>Sorry, you are not 18 years old yet</li>'
 );
 }
+    if (age >= 18) {
+  $('#signup-form').append('<li>Thank you, your form has been submitted</li>'
+);
+}
+});
