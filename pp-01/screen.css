@@ -7,3 +7,5 @@ html {
   font-size: 1.125em; /* 18 / 16 */
   line-height: 1.222em; /*22 / 18*/
 }
+h1 {
+  font-size: 3.375em; /* 60.75 / 18 */
