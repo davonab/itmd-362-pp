@@ -5,20 +5,20 @@
 /* eslint-enable */
 $.noConflict();
 (function($) {
+  var userbirth = new Date(document.getElementById('birthday').value);
+  var today = new Date();
+  var a = userbirth.getFullYear();
+  var b = today.getFullYear();
+  var age = b - a;
   $('#signup-form').on('submit', function(d) {
     d.preventDefault();
-    var userbirth = new Date(document.getElementById('birthday').value);
-    var today = new Date();
-    var a = userbirth.getFullYear();
-    var b = today.getFullYear();
-    var age = b - a;
     if(age < 18) {
-  $('#signup-form').append('<li>Sorry, you are not 18 years old yet</li>'
-);
-}
+      $('#signup-form').append('<li>Sorry, you are not 18 years old yet</li>'
+      );
+    }
     if (age >= 18) {
-  $('#signup-form').append('<li>Thank you, your form has been submitted</li>'
-);
-}
-});
+      $('#signup-form').append('<li>Thank you, your form has been submitted</li>'
+      );
+    }
+  });
 })(jQuery);
