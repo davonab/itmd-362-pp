@@ -16,7 +16,7 @@ Your Rationale: I am not a gaming person, but just by going through other websit
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL: http://paletton.com/palette.php?uid=35s120ktOMBihRho5OBKrIQIsrp
+Your Palette URL: http://paletton.com/#uid=55s0T0ktOMBihRho5OBKrIQIsrp
 Your Rationale: Spring time and gardens creates bright and colorful feelings, so I picked these colors because they remind me most of the flowers we see in gardens that bring happiness.
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
