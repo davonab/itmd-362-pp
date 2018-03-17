@@ -21,8 +21,8 @@ Your Rationale: Spring time and gardens creates bright and colorful feelings, so
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/palette.php?uid=52Q150ksxulhKCOmMvKuToq-1jj
+Your Rationale: I chose these colors because a majority of the letters of the alphabet are primary and secondary colors blue, red, green, and yellow.
 
 4. A custom color palette for advertising a course on cybersecurity
 
