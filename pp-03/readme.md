@@ -26,5 +26,5 @@ Your Rationale: I chose these colors because a majority of the letters of the al
 
 4. A custom color palette for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/palette.php?uid=c3Z0y011N1kGlqO4qX3btsrZjeK%2B%2B00kGlqO4qX3btsrZjeK%2B%2B00kGlqO4qX3btsrZjeK%2B%2B00kGlqO4qX3btsrZjeK%2B%2B00
+Your Rationale: I researched the different levels of cyber security dangers and it appeared to have blue, yellow, orange, and red as the 4 main ones.
