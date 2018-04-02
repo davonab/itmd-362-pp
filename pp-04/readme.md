@@ -28,7 +28,10 @@ Small commits to your Production Problems repository that include:
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 * HCI Guideline One (URL): https://developer.apple.com/ios/human-interface-guidelines/controls/text-fields/
-* How you implemented it in your sketch:
+* How you implemented it in your sketch: On the MY.IIT website, they have a clear button that deletes all
+input in both username and password inputs. However, it would be more beneficial if the user had the ability to only
+delete input from a certain box instead of deleting everything. In my sketch, I put small x's in the right corner of each
+input box so the user can delete only info that they messed up on.
 
 * HCI Guideline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/user-interaction/data-entry/
 * How you implemented it in your sketch:
