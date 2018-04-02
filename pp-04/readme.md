@@ -30,7 +30,7 @@ Small commits to your Production Problems repository that include:
 * HCI Guideline One (URL): https://developer.apple.com/ios/human-interface-guidelines/controls/text-fields/
 * How you implemented it in your sketch:
 
-* HCI Guideline Two (URL):
+* HCI Guideline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/user-interaction/data-entry/
 * How you implemented it in your sketch:
 
 * HCI Guideline Three (URL):
