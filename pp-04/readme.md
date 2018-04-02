@@ -36,7 +36,10 @@ input box so the user can delete only info that they messed up on.
 * HCI Guideline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/user-interaction/data-entry/
 * How you implemented it in your sketch: On the MY.IIT website, they fail to insert placeholder text to inform the user on
 how they should type the username because it could be their full email. I redesigned it to have example inputs so they user
-will not have to second guess what to enter. 
+will not have to second guess what to enter.
 
 * HCI Guideline Three (URL): https://developer.apple.com/ios/human-interface-guidelines/visual-design/adaptivity-and-layout/
-* How you implemented it in your sketch:
+* How you implemented it in your sketch: On the MY.IIT website, they fail to utilize the full screen for the login section.
+On mobile screens, the inputs are set off at the top left hand section of the screen. It is also very hard to touch, so I would
+suggest enlarging that section by increasing the size of the input boxes and moving it to a more reachable section of the screen so
+users can interact with it better.
