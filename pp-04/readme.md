@@ -33,5 +33,5 @@ Small commits to your Production Problems repository that include:
 * HCI Guideline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/user-interaction/data-entry/
 * How you implemented it in your sketch:
 
-* HCI Guideline Three (URL):
+* HCI Guideline Three (URL): https://developer.apple.com/ios/human-interface-guidelines/visual-design/adaptivity-and-layout/
 * How you implemented it in your sketch:
