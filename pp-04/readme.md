@@ -27,11 +27,19 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guideline One (URL): https://developer.apple.com/ios/human-interface-guidelines/controls/text-fields/
+* How you implemented it in your sketch: On the MY.IIT website, they have a clear button that deletes all
+input in both username and password inputs. However, it would be more beneficial if the user had the ability to only
+delete input from a certain box instead of deleting everything. In my sketch, I put small x's in the right corner of each
+input box so the user can delete only info that they messed up on.
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guideline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/user-interaction/data-entry/
+* How you implemented it in your sketch: On the MY.IIT website, they fail to insert placeholder text to inform the user on
+how they should type the username because it could be their full email. I redesigned it to have example inputs so they user
+will not have to second guess what to enter.
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guideline Three (URL): https://developer.apple.com/ios/human-interface-guidelines/visual-design/adaptivity-and-layout/
+* How you implemented it in your sketch: On the MY.IIT website, they fail to utilize the full screen for the login section.
+On mobile screens, the inputs are set off at the top left hand section of the screen. It is also very hard to touch, so I would
+suggest enlarging that section by increasing the size of the input boxes and moving it to a more reachable section of the screen so
+users can interact with it better.
